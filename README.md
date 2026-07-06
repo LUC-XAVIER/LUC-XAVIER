@@ -36,7 +36,7 @@
 ---
 
 
-<!-- ### 📊 GitHub Stats
+### 📊 GitHub Stats
 ![Luc-Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=LUC-XAVIER&show_icons=true&theme=radical)
 
 ### 🏆 GitHub Trophies
@@ -45,7 +45,7 @@
 ### 📈 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUC-XAVIER&layout=compact&theme=radical)
 
---- -->
+--- 
 
 #### 🔹 Let's Connect
 - 🌐 [LinkedIn](www.linkedin.com/in/foning-luc-xavier-b11a84291)  
