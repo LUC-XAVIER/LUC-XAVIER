@@ -1,26 +1,12 @@
-### 🧠 Profile
+# 👋 Hey there...
+<br>
 
-👋 Hi there, I'm Luc‑Xavier  
-🎓 Software Engineering | 🌐 Aspiring ML/AI Engineer  
-
-#### 🔹 About Me
-- Passionate about building intelligent systems and applying AI/ML to solve real problems.  
-- Comfortable in **Python, Java, TypeScript** with frameworks like **Spring Boot, FastAPI**.  
-- Exploring modern AI workflows with **RAG architectures, LangGraph, LangChain, LangSmith, HuggingFace, Anaconda, Azure**.  
-- My journey is focused on becoming a robust ML/AI engineer, combining backend engineering with data analysis and deployment skills.  
-
-#### 🔹 What I'm Building
-- 🤖 AI‑powered applications leveraging RAG pipelines and LangChain.  
-- 🚀 Deploying AI solutions on Azure for scalability and accessibility.  
-- 🧱 Backend services with Spring Boot and FastAPI, integrated with modern frontends.  
-
-#### 🔹 Interests & Goals
-- Strengthening my ML/AI engineering foundation.  
-- Practicing scalable software architecture and clean code habits.  
-- Exploring advanced data pipelines and real‑time analytics.
-  
-
----
+### 🔹 About Me
+- Passionate about building intelligent systems and applying AI/ML to solve real problems.
+<br>
+<br>
+<br>
+<br>
 
 ### 🚀 Tech Stack & Tools
 
@@ -35,18 +21,11 @@
 
 ---
 
+<br>
 
 ### 📊 GitHub Stats
-![Luc-Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=LUC-XAVIER&show_icons=true&theme=radical)
 
 ### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=LUC-XAVIER&theme=darkhub)
 
 ### 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUC-XAVIER&layout=compact&theme=radical)
 
---- 
-
-#### 🔹 Let's Connect
-- 🌐 [LinkedIn](www.linkedin.com/in/foning-luc-xavier-b11a84291)  
-- 📩 Email: zazap1731@gmail.com 
